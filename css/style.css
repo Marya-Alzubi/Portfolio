@@ -1055,7 +1055,7 @@ body {
 .my-information .kayo-info-detail h3 {
   font-size: 24px;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin: 64px 0 0 0;
   font-weight: 700;
   line-height: 1;
 }
@@ -1064,7 +1064,7 @@ body {
   letter-spacing: 0.7px;
   padding-bottom: 15px;
   border-bottom: 1px solid #3a4a5d;
-  margin-bottom: 15px;
+  margin: 24px 0 0 0;
   font-weight: 400;
   font-size: 14px;
   font-style: italic;
